@@ -1,0 +1,23 @@
+{
+  "name": "default-project",
+  "version": "0.1.0",
+  "description": "A full-stack development project",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Start development server'",
+    "build": "echo 'Build the project'",
+    "test": "echo 'Run tests'",
+    "test:unit": "echo 'Run unit tests'",
+    "test:integration": "echo 'Run integration tests'",
+    "lint": "echo 'Run linter'",
+    "lint:fix": "echo 'Fix linting issues'",
+    "format": "echo 'Format code'",
+    "prepare": "echo 'Git hooks setup'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
