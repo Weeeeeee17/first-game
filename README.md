@@ -1,6 +1,6 @@
-# Default Project
+# First Game
 
-A full-stack development project.
+A game development project.
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ A full-stack development project.
 ```bash
 # Clone the repository
 git clone <repository-url>
-cd default-project
+cd first-game
 
 # Install Node.js dependencies
 npm install

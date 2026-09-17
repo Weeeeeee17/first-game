@@ -1,7 +1,7 @@
 [project]
-name = "default-project"
+name = "first-game"
 version = "0.1.0"
-description = "A full-stack development project"
+description = "First Game - a game development project"
 requires-python = ">=3.10"
 license = { text = "MIT" }
 
